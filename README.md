@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joshua Umukoro
-- 👀 I’m I'm passionate about Software Engineering, and Data Science.
+- 👋 Hi, I am Joshua Umukoro
+- 👀 I am passionate about Software Engineering, and Data Science.
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning open source tools.
 
