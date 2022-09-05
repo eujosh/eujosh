@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_eujosh_" target="blank"><img src="https://img.shields.io/twitter/follow/_eujosh_?logo=twitter&style=for-the-badge" alt="_eujosh_" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning with PyTorch**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning open source tools.**
 
