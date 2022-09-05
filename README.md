@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science and MLOps open source tools.**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning open source tools.**
 
 - 💬 Ask me about **Data Science**
 
