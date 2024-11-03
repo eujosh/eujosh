@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Deep Learning with PyTorch**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning open source tools.**
+- 👯 I’m looking to collaborate on **Data Engineering Projects and Machine Learning open source tools.**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **umukorojosh@gmail.com**
 
