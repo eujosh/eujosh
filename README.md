@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Umukoro</h1>
-<h3 align="center">A Data Scientist</h3>
+<h3 align="center">A Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611c0e970633a8e8e48d33b6245fa60fb74e2eb05e6&rid=giphy.gif&ct=g">
 
 
